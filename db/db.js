@@ -10,7 +10,7 @@ export default {
 		},
 		contact: {
 			text: [
-				"If you would like to get in touch with me, be it for exploring a technology, a business, or to just say hi, feel free to send me an email. My email address is: vinaysomawat40@gmail.com",
+				"If you would like to get in touch with me, be it for exploring a technology, a business, or to gush about how fatafati (that means awesome :D) tech is, feel free to send me an email. Iiit's smatin.au@gmail.com!",
 			],
 		},
 	},
@@ -97,7 +97,7 @@ export default {
 				image: "images/portfolio.png",
 				summary:
 					"As another way to showcase my skill, this very portfolio is another project.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
+				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 			{
@@ -105,7 +105,7 @@ export default {
 				image: "images/resume-builder.png",
 				summary:
 					"A simple to do app.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
+				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 		],
@@ -116,7 +116,7 @@ export default {
 				summary:
 					"Forum app for users to protect themselves from predoators.",
 				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+					"https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["Backend", "Frontend"],
 			},
 			{
@@ -124,7 +124,7 @@ export default {
 				image: "images/whatsappbot.jpg",
 				summary:
 					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			},
 			{
@@ -132,11 +132,11 @@ export default {
 				image: "images/billgenerator.png",
 				summary:
 					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
+				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["Tkinter", "Openxlpy", "Python"],
 			},
 		],
-		android: [
+		mobile: [
 			{
 				projectName: "NITW-CSE",
 				image: "images/nitwcse.jpg",
@@ -196,29 +196,27 @@ export default {
 			duration: "TBA",
 			subtitle: "Junior App Developer",
 			details: [
-				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
-				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
-				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
+				"Collaborated with a team of 4 other engineers to design, engineer, and deploy an Android application with JavaScript, HTML5, and CSS3 for Digital Punk Studios.",
 			],
 			tags: [
 				"JavaScript",
-				"Angular",
-				"React",
-				"Bootstrap",
-				"Nodejs",
-				"Jenkins",
+				"HTML5",
+				"CSS",
+				"Adobe Premier Pro",
+				"Adobe PhotoShop",
+				"Postman",
 			],
 			icon: "qrcode",
 		},
 		{
 			title: "Global Tell Link",
 			duration: "May 2019 - June 2019",
-			subtitle: "SDE Intern",
+			subtitle: "SDET",
 			details: [
-				"Worked as a full stack developer to support tech team.",
-				"Developed a customer Web Application from scratch for social media management.",
+				"Executed test scripts using Python for enhanced test automation.",
+				"Created bug reports utilizing Jira bug tracking system.",
 			],
-			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+			tags: ["Nodejs", "Agile", "SQL", "Java", "noSQL"],
 			icon: "group",
 		},
 	],
@@ -243,14 +241,14 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Class 11-12th in Science and Mathematics",
+			title: "CareerFoundry",
 			duration: "",
-			subtitle: "Board of Secondary Education, Rajasthan",
+			subtitle: "Certification in Web Development",
 			details: [
-				"Qualified JEE Advanced, Main & BITSAT.",
-				"Secured 99.5 percentile in Class 12th Boards Examinations.",
+				"Earned a certification in specialization in Full Stack Web Development.",
+				"Designed and deployed a variety of apps, such as e-commerce.",
 			],
-			tags: ["Physics", "Chemistry", "Mathematics"],
+			tags: ["Web Development", "Web Applications", "Web Design"],
 			icon: "book",
 		},
 	],
@@ -259,16 +257,8 @@ export default {
 			label: "Dev Profiles",
 			data: [
 				{
-					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-				},
-				{
 					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
-				},
-				{
-					text: "LeetCode",
-					link: "https://leetcode.com/somawatvinay/",
+					link: "https://github.com/samia-gits-it",
 				},
 			],
 		},
@@ -289,7 +279,7 @@ export default {
 				},
 								{
 					text: "View CV",
-					link: "https://www.linkedin.com/samiamtn",
+					link: "https://samia-gits-it.github.io/OfficialFolio/",
 				},
 			],
 		},
@@ -299,11 +289,6 @@ export default {
 				{
 					text: "Linkedin",
 					link: "https://www.linkedin.com/in/samiamtn/",
-				},
-				
-				{
-					text: "GitHub",
-					link: "https://www.samia-gits-it.github.com/",
 				},
 			],
 		},
