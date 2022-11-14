@@ -97,7 +97,7 @@ export default {
 				image: "images/portfolio.png",
 				summary:
 					"As another way to showcase my skill, this very portfolio is another project.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
+				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 			{
@@ -124,7 +124,7 @@ export default {
 				image: "images/whatsappbot.jpg",
 				summary:
 					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "/",
+				preview: "https://samia-gits-it.github.io/PokeDex/",
 				techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			},
 
