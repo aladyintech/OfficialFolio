@@ -259,16 +259,8 @@ export default {
 			label: "Dev Profiles",
 			data: [
 				{
-					text: "Stackoverflow",
-					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-				},
-				{
 					text: "GitHub",
-					link: "https://github.com/vinaysomawat",
-				},
-				{
-					text: "LeetCode",
-					link: "https://leetcode.com/somawatvinay/",
+					link: "https://github.com/samia-gits-it",
 				},
 			],
 		},
@@ -285,7 +277,7 @@ export default {
 				},
 				{
 					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+					link: "https://samia-gits-it.github.io/OfficialFolio/",
 				},
 			],
 		},
@@ -295,11 +287,6 @@ export default {
 				{
 					text: "Linkedin",
 					link: "https://www.linkedin.com/in/samiamtn/",
-				},
-				
-				{
-					text: "GitHub",
-					link: "https://www.samia-gits-it.github.com/",
 				},
 			],
 		},
