@@ -168,6 +168,7 @@ export default {
 			],
 			icon: "heartbeat",
 		},
+		
 		{
 			title: "Digital Punk Studios",
 			duration: "Aug 2014 - May 2018",
@@ -183,19 +184,19 @@ export default {
 				"Nodejs",
 				"Adobe Photoshop",
 			],
-			icon: "qrcode",
+			icon: "paintbrush",
 		},
 		{
 			title: "Global Tell Link",
 			duration: "Mar 2021 - Jan 2022",
-			subtitle: "SDE Intern",
+			subtitle: "SDET",
 			details: [
 				"Worked as a full stack developer to support tech team.",
 				"Developed a customer Web Application from scratch for social media management.",
 				"Worked with primarily front-end languages and Bootstrap for aforementioned Web Application.",
 			],
 			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-			icon: "group",
+			icon: "globe",
 		},
 	],
 	education: [
