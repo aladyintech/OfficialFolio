@@ -97,7 +97,7 @@ export default {
 				image: "images/portfolio.png",
 				summary:
 					"As another way to showcase my skill, this very portfolio is another project.",
-				preview: "https://samia-gits-it.github.io/OfficialFolio/",
+				preview: "https://github.com/vinaysomawat/Travographer-Portal",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 			{
@@ -111,12 +111,12 @@ export default {
 		],
 		software: [
 			{
-				projectName: "PokeDex",
+				projectName: "Nice Guys",
 				image: "images/pizzaorderchatbot.png",
 				summary:
-					"PokeDex App fetched from API.",
+					"Forum app for users to protect themselves from predoators.",
 				preview:
-					"https://samia-gits-it.github.io/PokeDex/",
+					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
 				techStack: ["Backend", "Frontend"],
 			},
 			{
@@ -124,32 +124,37 @@ export default {
 				image: "images/whatsappbot.jpg",
 				summary:
 					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://samia-gits-it.github.io/PokeDex/",
+				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
 				techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			},
-
+			{
+				projectName: "Bill Generator",
+				image: "images/billgenerator.png",
+				summary:
+					"GUI to transfer data to excel sheets and generate bills on the local shops.",
+				preview: "https://github.com/vinaysomawat/Bill-Generator",
+				techStack: ["Tkinter", "Openxlpy", "Python"],
+			},
 		],
-
+		android: [
+			{
+				projectName: "NITW-CSE",
+				image: "images/nitwcse.jpg",
+				summary:
+					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
+				preview: "https://github.com/vinaysomawat/NITW-CSE",
+				techStack: ["JAVA", "XML", "Android"],
+			},
+			{
+				projectName: "CareerHigh-App",
+				image: "images/carrerhigh.png",
+				summary:
+					"The Application display the webpages of website careerhigh.in in android devices.",
+				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
+				techStack: ["JAVA", "XML", "Android"],
+			},
+		],
 		freelance: [
-			{
-				projectName: "SnylloAir.com",
-				image: "images/snylloair.png",
-				summary:
-					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-				preview: "https://www.snylloair.com/",
-				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-			},
-			{
-				projectName: "Delivery+",
-				image: "images/AM-Logo-.png",
-				summary:
-					"Android Application to display website in android devices.",
-				preview:
-					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-				techStack: ["Android", "JAVA", "Play Store"],
-			},
-		],
-				mobile: [
 			{
 				projectName: "SnylloAir.com",
 				image: "images/snylloair.png",
@@ -175,8 +180,7 @@ export default {
 			duration: "July 2021 - March 2022",
 			subtitle: "QA Testing Intern",
 			details: [
-				"Trained in QA Engineering using Selenium WebDriver, Java, TestNG, and Maven.",
-				"Learned test automation with web applications.",
+				"Trained in QA Engineering using Selenium WebDriver, Java, TestNG, and Maven."
 			],
 			tags: [
 				"Java",
@@ -187,35 +191,35 @@ export default {
 			],
 			icon: "heartbeat",
 		},
-		
 		{
 			title: "Digital Punk Studios",
-			duration: "Aug 2014 - May 2018",
+			duration: "TBA",
 			subtitle: "Junior App Developer",
 			details: [
-				"Collaborated with a team of 4 other engineers to design, engineer, and deploy an Android application with JavaScript, HTML5, and CSS3 for Digital Punk Studios.",
+				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
+				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
+				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
 			],
 			tags: [
-				"HTML5",
-				"Android Studio",
 				"JavaScript",
+				"Angular",
+				"React",
 				"Bootstrap",
 				"Nodejs",
-				"Adobe Photoshop",
+				"Jenkins",
 			],
-			icon: "paintbrush",
+			icon: "qrcode",
 		},
 		{
 			title: "Global Tell Link",
-			duration: "Mar 2021 - Jan 2022",
-			subtitle: "SDET",
+			duration: "May 2019 - June 2019",
+			subtitle: "SDE Intern",
 			details: [
 				"Worked as a full stack developer to support tech team.",
 				"Developed a customer Web Application from scratch for social media management.",
-				"Worked with primarily front-end languages and Bootstrap for aforementioned Web Application.",
 			],
 			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
-			icon: "globe",
+			icon: "group",
 		},
 	],
 	education: [
@@ -239,25 +243,32 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "CareerFoundry",
+			title: "Class 11-12th in Science and Mathematics",
 			duration: "",
-			subtitle: "Certification in Full Stack Web Development",
+			subtitle: "Board of Secondary Education, Rajasthan",
 			details: [
 				"Qualified JEE Advanced, Main & BITSAT.",
 				"Secured 99.5 percentile in Class 12th Boards Examinations.",
 			],
-			tags: ["Web Development", "Full Stack", "Web App Development"],
+			tags: ["Physics", "Chemistry", "Mathematics"],
 			icon: "book",
 		},
 	],
-	
 	footer: [
 		{
 			label: "Dev Profiles",
 			data: [
 				{
+					text: "Stackoverflow",
+					link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+				},
+				{
 					text: "GitHub",
-					link: "https://github.com/samia-gits-it",
+					link: "https://github.com/vinaysomawat",
+				},
+				{
+					text: "LeetCode",
+					link: "https://leetcode.com/somawatvinay/",
 				},
 			],
 		},
@@ -274,7 +285,11 @@ export default {
 				},
 				{
 					text: "Clone this page",
-					link: "https://samia-gits-it.github.io/OfficialFolio/",
+					link: "https://www.github.com",
+				},
+								{
+					text: "View CV",
+					link: "https://www.linkedin.com/samiamtn",
 				},
 			],
 		},
@@ -284,6 +299,11 @@ export default {
 				{
 					text: "Linkedin",
 					link: "https://www.linkedin.com/in/samiamtn/",
+				},
+				
+				{
+					text: "GitHub",
+					link: "https://www.samia-gits-it.github.com/",
 				},
 			],
 		},
