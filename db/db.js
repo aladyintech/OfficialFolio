@@ -220,17 +220,18 @@ export default {
 			icon: "graduation-cap",
 		},
 		{
-			title: "Class 11-12th in Science and Mathematics",
+			title: "CareerFoundry",
 			duration: "",
-			subtitle: "Board of Secondary Education, Rajasthan",
+			subtitle: "Certification in Full Stack Web Development",
 			details: [
 				"Qualified JEE Advanced, Main & BITSAT.",
 				"Secured 99.5 percentile in Class 12th Boards Examinations.",
 			],
-			tags: ["Physics", "Chemistry", "Mathematics"],
+			tags: ["Web Development", "Full Stack", "Web App Development"],
 			icon: "book",
 		},
 	],
+	
 	footer: [
 		{
 			label: "Dev Profiles",
