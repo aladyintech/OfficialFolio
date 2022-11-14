@@ -111,12 +111,12 @@ export default {
 		],
 		software: [
 			{
-				projectName: "Nice Guys",
+				projectName: "PokeDex",
 				image: "images/pizzaorderchatbot.png",
 				summary:
-					"Forum app for users to protect themselves from predoators.",
+					"PokeDex App fetched from API.",
 				preview:
-					"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+					"https://samia-gits-it.github.io/PokeDex/",
 				techStack: ["Backend", "Frontend"],
 			},
 			{
@@ -124,36 +124,12 @@ export default {
 				image: "images/whatsappbot.jpg",
 				summary:
 					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-				preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+				preview: "/",
 				techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			},
-			{
-				projectName: "Bill Generator",
-				image: "images/billgenerator.png",
-				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
-				preview: "https://github.com/vinaysomawat/Bill-Generator",
-				techStack: ["Tkinter", "Openxlpy", "Python"],
-			},
+
 		],
-		android: [
-			{
-				projectName: "NITW-CSE",
-				image: "images/nitwcse.jpg",
-				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
-				techStack: ["JAVA", "XML", "Android"],
-			},
-			{
-				projectName: "CareerHigh-App",
-				image: "images/carrerhigh.png",
-				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-				techStack: ["JAVA", "XML", "Android"],
-			},
-		],
+
 		freelance: [
 			{
 				projectName: "SnylloAir.com",
@@ -180,7 +156,8 @@ export default {
 			duration: "July 2021 - March 2022",
 			subtitle: "QA Testing Intern",
 			details: [
-				"Trained in QA Engineering using Selenium WebDriver, Java, TestNG, and Maven."
+				"Trained in QA Engineering using Selenium WebDriver, Java, TestNG, and Maven.",
+				"Learned test automation with web applications.",
 			],
 			tags: [
 				"Java",
@@ -193,30 +170,29 @@ export default {
 		},
 		{
 			title: "Digital Punk Studios",
-			duration: "TBA",
+			duration: "Aug 2014 - May 2018",
 			subtitle: "Junior App Developer",
 			details: [
-				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
-				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
-				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
+				"Collaborated with a team of 4 other engineers to design, engineer, and deploy an Android application with JavaScript, HTML5, and CSS3 for Digital Punk Studios.",
 			],
 			tags: [
+				"HTML5",
+				"Android Studio",
 				"JavaScript",
-				"Angular",
-				"React",
 				"Bootstrap",
 				"Nodejs",
-				"Jenkins",
+				"Adobe Photoshop",
 			],
 			icon: "qrcode",
 		},
 		{
 			title: "Global Tell Link",
-			duration: "May 2019 - June 2019",
+			duration: "Mar 2021 - Jan 2022",
 			subtitle: "SDE Intern",
 			details: [
 				"Worked as a full stack developer to support tech team.",
 				"Developed a customer Web Application from scratch for social media management.",
+				"Worked with primarily front-end languages and Bootstrap for aforementioned Web Application.",
 			],
 			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
 			icon: "group",
