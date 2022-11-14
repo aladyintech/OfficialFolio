@@ -255,6 +255,11 @@ export default {
 					text: "Clone this page",
 					link: "https://samia-gits-it.github.io/OfficialFolio/",
 				},
+				
+				{
+					text: "Download Resume",
+					link: "https://coach-courses-us.s3.amazonaws.com/exercises/723/52856/e4fad2861ac4749400aa801a469030d9/Samia-Matin---Web-Dev--updated-.pdf",
+				},
 			],
 		},
 		{
