@@ -1504,16 +1504,21 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .btn-download {
-  background-color: DodgerBlue;
-  border: none;
-  color: white;
-  padding: 12px 30px;
-  cursor: pointer;
-  font-size: 20px;
+border: 5px solid #20750D; 
+  border-radius: 12px;
+  background: #21BC27;
+  color: #CDFFCA;
+  display:inline-block;
+  padding:20px;
+  transition:3s;
 }
 
 .btn-download:hover {
-background-color: RoyalBlue;
+  border: 5px groove blue;
+  border-radius:0px;
+  color:black;
+  background:yellow;
+  transition:0.5s
 }
 
 #colorlib-counter {
