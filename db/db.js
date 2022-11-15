@@ -283,10 +283,6 @@ export default {
 					text: "Clone this page",
 					link: "https://www.github.com",
 				},
-								{
-					text: "View CV",
-					link: "https://samia-gits-it.github.io/OfficialFolio/",
-				},
 			],
 		},
 		{
