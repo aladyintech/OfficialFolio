@@ -216,10 +216,11 @@ export default {
 				"Executed test scripts using Python for enhanced test automation.",
 				"Created bug reports utilizing Jira bug tracking system.",
 			],
-			tags: ["Nodejs", "Agile", "SQL", "Java", "noSQL"],
+			tags: ["Nodejs", "Agile", "SQL", "Java", "JIRA"],
 			icon: "group",
 		},
 	],
+	
 	education: [
 		{
 			title: "Bachelors in Computer Science and Engineering",
