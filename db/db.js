@@ -79,10 +79,10 @@ export default {
 					"Developed a Pokedex from scratch fetched from API.",
 				techStack: [
 					"JavaScript",
-					"HTML",
+					"HTML5",
 					"CSS",
 					"jQuery",
-					"Bootstrap",
+					"Bootstrap"
 				],
 			},
 			{
@@ -106,7 +106,7 @@ export default {
 				summary:
 					"A simple to do app.",
 				preview: "https://samia-gits-it.github.io/OfficialFolio/",
-				techStack: ["HTML", "Bootstrap", "JavaScript"],
+				techStack: ["HTML5", "Bootstrap", "JavaScript"],
 			},
 		],
 		software: [
@@ -180,7 +180,7 @@ export default {
 			duration: "July 2021 - March 2022",
 			subtitle: "QA Testing Intern",
 			details: [
-				"Trained in QA Engineering using Selenium WebDriver, Java, TestNG, and Maven.",
+				"Trained in QA Engineering using Selenium WebDriver, Java, TestNG, and Maven."
 			],
 			tags: [
 				"Java",
@@ -196,7 +196,7 @@ export default {
 			duration: "TBA",
 			subtitle: "Junior App Developer",
 			details: [
-				"Collaborated with a team of 4 other engineers to design, engineer, and deploy an Android application with JavaScript, HTML5, and CSS3 for Digital Punk Studios.",
+				"Collaborated with a team of 4 other engineers to design, engineer, and deploy an Android application with JavaScript, HTML5, and CSS3 for Digital Punk Studios."
 			],
 			tags: [
 				"JavaScript",
