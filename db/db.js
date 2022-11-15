@@ -197,12 +197,12 @@ export default {
 		},
 		{
 			title: "Global Tell Link.",
-			duration: "June 2020 - April 2022",
-			subtitle: "Software Engineer",
+			duration: "May 2018 - Jan 2022",
+			subtitle: "SDET",
 			details: [
-				"Implemented Aadhaar Enabled Payment services such as Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements, and Money transfer; completed more than 20 story points in each sprint.",
-				"Integrated QR Code and reduced the effective time by 50 percent to load money into wallet, Clevertap events to track user actions, Freshdesk ticketing service and chat-bot services. Worked on user onboarding, approval, and finance interfaces.",
-				"Co-ordinated closely with the product team, backend team, android team, and QA team to deliver the product builds before deadlines.",
+				"Created testing systems to identify issues within software.",
+				"Evaluated existing technology to identify areas of improvement",
+				"Built test automation framework for various software projects",
 			],
 			tags: [
 				"JavaScript",
@@ -216,13 +216,13 @@ export default {
 		},
 		{
 			title: "Digital Punk Studios",
-			duration: "May 2019 - June 2019",
+			duration: "Aug 2014 - May 2018",
 			subtitle: "SDE Intern",
 			details: [
 				"Worked as a full stack developer to support tech team.",
 				"Developed a customer Web Application from scratch for social media management.",
 			],
-			tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+			tags: ["JavaScript", "HTML", "CSS", "Postman", "mySQL"],
 			icon: "group",
 		},
 	],
