@@ -232,9 +232,9 @@ export default {
 			duration: "Jan 2019 - Mar 2021",
 			subtitle: "Saint Leo University Worldwide",
 			details: [
-				"Qualified GATE-2020.",
-				"Active Competitive Programmer with CodeChef Rating 1841*.",
-				"Received 500+ stars and 300+ forks on GitHub projects.",
+				"Dean Lister in Fall 2020.",
+				"Omega Nu Lambda and other Honors Awards.",
+				"Courses involved information such as Data Structures, Java, Software Engineering, and Project Management.",
 			],
 			tags: [
 				"Data Structures & Algorithms",
