@@ -74,7 +74,7 @@ export default {
 		web: [
 			{
 				projectName: "PokeDex",
-				image: "images/programmingdiaries.png",
+				image: "images/https___samia-gits-it.github.io_ToDo_App_ - Google Chrome 11_15_2022 1_19_22 PM.png",
 				summary:
 					"Developed a Pokedex from scratch fetched from API.",
 				techStack: [
@@ -86,15 +86,15 @@ export default {
 				],
 			},
 			{
-				projectName: "Movie-API",
-				image: "images/findyourbank.png",
+				projectName: "CheckMyFlix",
+				image: "images/https___samia-gits-it.github.io_ToDo_App_ - Google Chrome 11_15_2022 1_18_27 PM.png",
 				summary:
 					"Developed a movie API.",
 				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Heroku"],
 			},
 			{
 				projectName: "Web-Portfolio",
-				image: "images/portfolio.png",
+				image: "images/Samia Matin - Google Chrome 11_14_2022 4_33_00 PM.png",
 				summary:
 					"As another way to showcase my skill, this very portfolio is another project.",
 				preview: "https://samia-gits-it.github.io/OfficialFolio/",
@@ -102,10 +102,9 @@ export default {
 			},
 			{
 				projectName: "ToDo-App",
-				image: "images/resume-builder.png",
+				image: "images/https___samia-gits-it.github.io_ToDo_App_ - Google Chrome 11_15_2022 1_17_52 PM.png",
 				summary:
 					"A simple to do app.",
-				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["HTML5", "Bootstrap", "JavaScript"],
 			},
 		],
@@ -113,11 +112,9 @@ export default {
 		software: [
 			{
 				projectName: "Nice-Guys",
-				image: "images/pizzaorderchatbot.png",
+				image: "images/background.png",
 				summary:
 					"Forum app for users to protect themselves from predators.",
-				preview:
-					"https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["Backend", "Frontend"],
 			},
 			{
