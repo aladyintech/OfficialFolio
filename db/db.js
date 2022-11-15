@@ -117,6 +117,7 @@ export default {
 					"Forum app for users to protect themselves from predators.",
 				techStack: ["Backend", "Frontend"],
 			},
+			/* This is a single-line comment, these are not necessary right now 
 			{
 				projectName: "Discord-Bot",
 				image: "images/whatsappbot.jpg",
@@ -132,9 +133,9 @@ export default {
 					"GUI to transfer data to excel sheets and generate bills on the local shops.",
 				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["Tkinter", "Openxlpy", "Python"],
-			},
+			},*/
 		],
-		
+		/* This is a single-line comment, these are not necessary right now 
 		android: [
 			{
 				projectName: "NITW-CSE",
@@ -173,7 +174,7 @@ export default {
 				techStack: ["Android", "JAVA", "Play Store"],
 			},
 		],
-	},
+	},*/
 	
 	experience: [
 		{
