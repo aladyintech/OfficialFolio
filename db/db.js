@@ -127,10 +127,10 @@ export default {
 				techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			},
 			{
-				projectName: "Bill-Generator",
+				projectName: "ChatAppr",
 				image: "images/billgenerator.png",
 				summary:
-					"GUI to transfer data to excel sheets and generate bills on the local shops.",
+					"Deployed a chat app to iOS, Android, and Web.",
 				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["Tkinter", "Openxlpy", "Python"],
 			},
@@ -138,39 +138,38 @@ export default {
 		
 		android: [
 			{
-				projectName: "NITW-CSE",
+				projectName: "ChatApp",
 				image: "images/nitwcse.jpg",
 				summary:
-					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
+					"Chat app for Android.",
 				preview: "https://github.com/samia-gits-it",
 				techStack: ["JAVA", "XML", "Android"],
 			},
 			{
-				projectName: "CareerHigh-App",
+				projectName: "DiscordBot",
 				image: "images/carrerhigh.png",
 				summary:
-					"The Application display the webpages of website careerhigh.in in android devices.",
-				preview: "https://github.com/vinaysomawat/CareerHigh-Android",
+					"Created a discord bot.",
+				preview: "https://github.com/",
 				techStack: ["JAVA", "XML", "Android"],
 			},
 		],
 		
 		freelance: [
 			{
-				projectName: "SnylloAir.com",
+				projectName: "TumblrTheme",
 				image: "images/snylloair.png",
 				summary:
-					"Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-				preview: "https://www.snylloair.com/",
+					"Created a responsive Tumblr theme for commercial and for personal use.",
 				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
 			},
 			{
-				projectName: "Delivery+",
+				projectName: "GameApp",
 				image: "images/AM-Logo-.png",
 				summary:
-					"Android Application to display website in android devices.",
+					"Indie game testing.",
 				preview:
-					"https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
+					"https://play.google.com/",
 				techStack: ["Android", "JAVA", "Play Store"],
 			},
 		],
