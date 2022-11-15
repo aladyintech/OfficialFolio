@@ -115,7 +115,7 @@ export default {
 				projectName: "Nice-Guys",
 				image: "images/pizzaorderchatbot.png",
 				summary:
-					"Forum app for users to protect themselves from predoators.",
+					"Forum app for users to protect themselves from predators.",
 				preview:
 					"https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["Backend", "Frontend"],
@@ -201,8 +201,8 @@ export default {
 			subtitle: "SDET",
 			details: [
 				"Created testing systems to identify issues within software.",
-				"Evaluated existing technology to identify areas of improvement",
-				"Built test automation framework for various software projects",
+				"Evaluated existing technology to identify areas of improvement.",
+				"Built test automation framework for various software projects.",
 			],
 			tags: [
 				"JavaScript",
