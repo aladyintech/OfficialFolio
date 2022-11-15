@@ -217,10 +217,10 @@ export default {
 		{
 			title: "Digital Punk Studios",
 			duration: "Aug 2014 - May 2018",
-			subtitle: "SDE Intern",
+			subtitle: "Junior App Developer",
 			details: [
-				"Worked as a full stack developer to support tech team.",
-				"Developed a customer Web Application from scratch for social media management.",
+				"Collaborated with a team of 4 other engineers to design, engineer, and deploy an Android application with JavaScript, HTML5, and CSS3 for Digital Punk Studios.",
+				"Developed a safespace Web Application from scratch to protect users from predators online.",
 			],
 			tags: ["JavaScript", "HTML", "CSS", "Postman", "mySQL"],
 			icon: "group",
