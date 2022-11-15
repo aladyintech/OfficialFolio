@@ -109,6 +109,7 @@ export default {
 				techStack: ["HTML5", "Bootstrap", "JavaScript"],
 			},
 		],
+		
 		software: [
 			{
 				projectName: "Nice-Guys",
@@ -136,7 +137,8 @@ export default {
 				techStack: ["Tkinter", "Openxlpy", "Python"],
 			},
 		],
-		mobile: [
+		
+		android: [
 			{
 				projectName: "NITW-CSE",
 				image: "images/nitwcse.jpg",
@@ -154,6 +156,7 @@ export default {
 				techStack: ["JAVA", "XML", "Android"],
 			},
 		],
+		
 		freelance: [
 			{
 				projectName: "SnylloAir.com",
@@ -174,6 +177,7 @@ export default {
 			},
 		],
 	},
+	
 	experience: [
 		{
 			title: "Selenium Training",
