@@ -86,14 +86,14 @@ export default {
 				],
 			},
 			{
-				projectName: "Movie API",
+				projectName: "Movie-API",
 				image: "images/findyourbank.png",
 				summary:
 					"Developed a movie API.",
 				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Heroku"],
 			},
 			{
-				projectName: "Web Portfolio",
+				projectName: "Web-Portfolio",
 				image: "images/portfolio.png",
 				summary:
 					"As another way to showcase my skill, this very portfolio is another project.",
@@ -101,7 +101,7 @@ export default {
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 			{
-				projectName: "To Do App",
+				projectName: "ToDo-App",
 				image: "images/resume-builder.png",
 				summary:
 					"A simple to do app.",
@@ -111,7 +111,7 @@ export default {
 		],
 		software: [
 			{
-				projectName: "Nice Guys",
+				projectName: "Nice-Guys",
 				image: "images/pizzaorderchatbot.png",
 				summary:
 					"Forum app for users to protect themselves from predoators.",
@@ -128,7 +128,7 @@ export default {
 				techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			},
 			{
-				projectName: "Bill Generator",
+				projectName: "Bill-Generator",
 				image: "images/billgenerator.png",
 				summary:
 					"GUI to transfer data to excel sheets and generate bills on the local shops.",
@@ -180,7 +180,7 @@ export default {
 			duration: "July 2021 - March 2022",
 			subtitle: "QA Testing Intern",
 			details: [
-				"Trained in QA Engineering using Selenium WebDriver, Java, TestNG, and Maven."
+				"Trained in QA Engineering using Selenium WebDriver, Java, TestNG, and Maven.",
 			],
 			tags: [
 				"Java",
