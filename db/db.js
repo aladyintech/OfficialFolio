@@ -144,7 +144,7 @@ export default {
 				image: "images/nitwcse.jpg",
 				summary:
 					"The Application display details of Department courses, reference books, research, publication and faculty profile.",
-				preview: "https://github.com/vinaysomawat/NITW-CSE",
+				preview: "https://github.com/samia-gits-it",
 				techStack: ["JAVA", "XML", "Android"],
 			},
 			{
@@ -206,11 +206,11 @@ export default {
 			],
 			tags: [
 				"JavaScript",
-				"Angular",
-				"React",
-				"Bootstrap",
+				"Selenium",
+				"Agile",
+				"Postman",
 				"Nodejs",
-				"Jenkins",
+				"Maven Build",
 			],
 			icon: "qrcode",
 		},
