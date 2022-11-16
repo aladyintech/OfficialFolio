@@ -178,7 +178,7 @@ export default {
 	experience: [
 		{
 			title: "Selenium Training",
-			duration: "April 2022 - Present",
+			duration: "Jul 2021 - Dec 2021",
 			subtitle: "QA Engineer",
 			details: [
 				"Trained by professional in QA Testing software and with Maven."
