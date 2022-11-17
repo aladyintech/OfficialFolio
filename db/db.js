@@ -128,7 +128,7 @@ export default {
 			},
 			{
 				projectName: "ChatApp",
-				image: "images/billgenerator.png",
+				image: "images/speech-bubble-png-1185376943",
 				summary:
 					"Deployed a chat app to iOS, Android, and Web.",
 				preview: "https://samia-gits-it.github.io/OfficialFolio/",
@@ -158,9 +158,9 @@ export default {
 		freelance: [
 			{
 				projectName: "TumblrTheme",
-				image: "images/snylloair.png",
+				image: "images/Untitled video.gif",
 				summary:
-					"Created a responsive Tumblr theme for commercial and for personal use.",
+					"Created a responsive Tumblr theme using HTML, CSS, and JavaScript for commercial and for personal use.",
 				techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
 			},
 			{
@@ -276,10 +276,6 @@ export default {
 					text: "Print this page",
 					func: "window.print()",
 				},
-				{
-					text: "Clone this page",
-					link: "https://www.github.com",
-				},
 			],
 		},
 		{
@@ -289,6 +285,17 @@ export default {
 					text: "Linkedin",
 					link: "https://www.linkedin.com/in/samiamtn/",
 				},
+				
+						{
+					text: "Medium",
+					link: "https://medium.com/@samiagitsit",
+				},
+				
+						{
+					text: "Twitter",
+					link: "https://twitter.com/samiagitsit",
+				},
+				
 			],
 		},
 	],
