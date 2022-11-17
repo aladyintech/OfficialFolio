@@ -120,14 +120,14 @@ export default {
 			
 			{
 				projectName: "Discord-Bot",
-				image: "images/whatsappbot.jpg",
+				image: "images/logo_transparent_coloured-330185878",
 				summary:
-					"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
+					"Python script which helps to send messages to Discord app contacts automatically using selenium and web automation.",
 				preview: "https://samia-gits-it.github.io/OfficialFolio/",
 				techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			},
 			{
-				projectName: "ChatAppr",
+				projectName: "ChatApp",
 				image: "images/billgenerator.png",
 				summary:
 					"Deployed a chat app to iOS, Android, and Web.",
@@ -139,7 +139,7 @@ export default {
 		android: [
 			{
 				projectName: "ChatApp",
-				image: "images/nitwcse.jpg",
+				image: "images/speech-bubble-png-1185376943",
 				summary:
 					"Chat app for Android.",
 				preview: "https://github.com/samia-gits-it",
@@ -147,7 +147,7 @@ export default {
 			},
 			{
 				projectName: "DiscordBot",
-				image: "images/carrerhigh.png",
+				image: "images/logo_transparent_coloured-330185878",
 				summary:
 					"Created a discord bot.",
 				preview: "https://github.com/",
