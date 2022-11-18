@@ -181,7 +181,8 @@ export default {
 			duration: "Jul 2021 - Dec 2021",
 			subtitle: "QA Engineer",
 			details: [
-				"Trained by professional in QA Testing software and with Maven."
+				"Training in <b>Test Driven Development</b> environment, leveraging QA automation test suite to provide unit tests and integration tests for any new functionality.",
+				"Extensive training in specifically <b>Java</b> and <b>C#</b> methods for providing performant automation tests.",
 			],
 			tags: [
 				"Selenium",
@@ -197,8 +198,8 @@ export default {
 			duration: "May 2018 - Jan 2022",
 			subtitle: "SDET",
 			details: [
-				"Created testing systems to identify issues within software.",
-				"Evaluated existing technology to identify areas of improvement.",
+				"Responsible for maintenance of application with technologies such as <b>SQL, SQL Server, jQuery, HTML5, JavaScript, Angular, Bootstrap, .NET, and C#</b>.",
+				"Collaborating with QA engineering team to define test cases, metrics, and resolve questions about complex test results.",
 				"Built test automation framework for various software projects.",
 			],
 			tags: [
@@ -218,6 +219,7 @@ export default {
 			details: [
 				"Collaborated with a team of 4 other engineers to design, engineer, and deploy an Android application with JavaScript, HTML5, and CSS3 for Digital Punk Studios.",
 				"Developed a safespace Web Application from scratch to protect users from predators online.",
+				"Primary focus in frontend optimization and performance techniques, using <b>HTML, CSS, JavaScript</b> and other languages.",
 			],
 			tags: ["JavaScript", "HTML", "CSS", "Postman", "mySQL"],
 			icon: "group",
@@ -231,7 +233,12 @@ export default {
 			details: [
 				"Dean Lister in Fall 2020.",
 				"Omega Nu Lambda and other Honors Awards.",
-				"Courses involved information such as Data Structures, Java, Software Engineering, and Project Management.",
+				"Strong understanding of overall web or software development such as basic usability, accessbility, industry standards, architexture, and navigation.",
+				"Knowledgable experience with Data Structures, Cloud Computing, and AngularJS.",
+				"Deep knowledge in <b>Java, CSS, HTML</b>, and more.",
+				"Extremely strong leadership and communication skills with an insatiable desire to learn and to grow.",
+				"Ability to grasp concepts quickly, incoroprate own innovations and embellishments and ability to stay up to date with industry.",
+				"Experience in creating responsive websites using Full Stack languages, libraries, and frameworks.",
 			],
 			tags: [
 				"Data Structures & Algorithms",
