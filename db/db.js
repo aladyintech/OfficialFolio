@@ -256,9 +256,10 @@ export default {
 			subtitle: "Certified in Full Stack Web Development",
 			details: [
 				"Qualified in Web Development.",
-				"Earned certification learning languages such as JavaScript, HTML5, Ajax, CSS, React, and more.",
+				"Earned certification learning languages such as <b>JavaScript, HTML5, Ajax, CSS, React, and more.</b>",
+				"Engaged in learning to work with databases such as <b>SQL and MongoDB</b>.",
 			],
-			tags: ["Web Design", "JavaScript", "FullStack"],
+			tags: ["Web Design", "JavaScript", "FullStack", "MongoDB",],
 			icon: "book",
 		},
 	],
